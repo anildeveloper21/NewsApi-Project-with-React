@@ -1,0 +1,36 @@
+ul li div {
+    cursor: pointer;
+}
+
+nav ul li {
+    display: flex;
+    align-items: center;
+    /* background-color: yellow; */
+    /* color: black; */
+}
+
+#l1 {
+    background-color: skyblue;
+    border-radius: 5px;
+    margin-left: 35vw;
+}
+#l2 {
+    background-color: skyblue;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+#l3 {
+    background-color: skyblue;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+#l4 {
+    background-color: skyblue;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+#l5 {
+    background-color: skyblue;
+    border-radius: 5px;
+    margin-left: 10px;
+}
